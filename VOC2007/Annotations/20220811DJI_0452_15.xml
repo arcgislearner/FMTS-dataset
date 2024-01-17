@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>20220811DJI_0452_15.JPG</filename>
+	<path>C:\Users\cjh19\Desktop\magic_2_rgb\label\JPEGImages\20220811DJI_0452_15.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tassel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>124</xmin>
+			<ymin>284</ymin>
+			<xmax>229</xmax>
+			<ymax>363</ymax>
+		</bndbox>
+	</object>
+</annotation>
